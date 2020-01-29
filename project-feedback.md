@@ -3,6 +3,13 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 3
+
+Samantha, these summaries are very well done. I'm trying to see how you want to tie the three readings together into a paper. It appears you have models of solar wind that you could talk about and/or coronal loops. I think you can pick one to focus on or to highlight in the paper and go into detail. If the other connects, then you might make reference to it through the paper. It will be important to digest and present at least one of the mathematical models presented in one of the papers to illusrtate that you have not only understood the major points, but provided some details as well. Great job!
+
+20/20
+
+
 ## Assignment 2
 
 Samantha, I'm glad you focused on this one article, your summary of it is clear and it's also obvious that it helped direct your next reading. One of the critical pieces of your paper will need to be to talk about the models used to understand solar wind, so you might want to pick one aspect of solar winds to really dive into understanding the models and the related mathematics associated with the models. The parker papers might help with this, but also think about what seemed important from the Dessler article and what is interesting to you. nice job.
