@@ -3,6 +3,13 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 4
+
+Samantha, this is a nicely written summary that provides a nice conceptual desciption of what you are doing. In your paper, it would be helped with some figures that illustrate the concepts that you are describing including the debate between the origin of solar winds. You can use figures from sources as long as you credit them. In addition, I think it will be necessary to dive into a particular mathematical model in your final paper, so I will be looking for you to start building that into the next update. Great job!
+
+20/20
+
+
 ## Assignment 3
 
 Samantha, these summaries are very well done. I'm trying to see how you want to tie the three readings together into a paper. It appears you have models of solar wind that you could talk about and/or coronal loops. I think you can pick one to focus on or to highlight in the paper and go into detail. If the other connects, then you might make reference to it through the paper. It will be important to digest and present at least one of the mathematical models presented in one of the papers to illusrtate that you have not only understood the major points, but provided some details as well. Great job!
