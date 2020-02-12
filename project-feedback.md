@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 5
+
+Samantha, this update is nice in that it has a really great description with figures of the mechanism and how that related to the magnetic models from Fisk et al. I do think you will need to combine this with the previous writing and start shaping this into a paper with all the necessary elements brought together in the next update. Great work!
+
+20/20
+
 ## Assignment 4
 
 Samantha, this is a nicely written summary that provides a nice conceptual desciption of what you are doing. In your paper, it would be helped with some figures that illustrate the concepts that you are describing including the debate between the origin of solar winds. You can use figures from sources as long as you credit them. In addition, I think it will be necessary to dive into a particular mathematical model in your final paper, so I will be looking for you to start building that into the next update. Great job!
