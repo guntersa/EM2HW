@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 6
+
+Samantha, good job pulling your writing together. I think you will need to have a bit more on the work - a little more detail on the models that Fisk uses and some more background, but it's looking good. I should also mention that you would typically use inline references (Author, Year) when making statements about the work people do. You have plenty of space to do this writing as the paper is expected to be 5 pages long or so.
+
+20/20
+
 ## Assignment 5
 
 Samantha, this update is nice in that it has a really great description with figures of the mechanism and how that related to the magnetic models from Fisk et al. I do think you will need to combine this with the previous writing and start shaping this into a paper with all the necessary elements brought together in the next update. Great work!
